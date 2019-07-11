@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Star Wars Quiz</string>
+    <string name="welcome_text_view">Welcome!</string>
+    <string name="begin_text_view">Touch here to begin!</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="proof_button">Proof</string>
+    <string name="question_one">Luke Skywalker killed Emporer Palpatine</string>
+    <string name="question_two">Han Solo once saved Luke\'s life by using a lightsaber</string>
+    <string name="question_three">C3P0 is fluent in over six million forms of communication </string>
+    <string name="question_four">The use of R2-D2\'s smokescreen aids Lando and Leia\'s escape from Cloud City</string>
+    <string name="question_five">\"Try. And fail, you will not.\", are words made famous by Grand Jedi Master Yoda"</string>
+    <string name="video_one">UhDtFnpNOfE</string>
+    <string name="video_two">CXmp1hLK0tY</string>
+    <string name="video_three">ZdSqrtKQ37E</string>
+    <string name="video_four">YjGa5Vj7B7I</string>
+    <string name="video_five">E3-CpzZJl8w</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="score_text_view">Score: </string>
+    <string name="next_button">Next</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="source">source:</string>
+    <string name="btn_skip_intro">Skip Intro</string>
+</resources>
